@@ -1,6 +1,6 @@
 [submodule "alpha"]
 	path = alpha
-	url = ./alpha/
+	url = git@github.com:ericthecyclist/alpha.git
 [submodule "beta"]
 	path = beta
-	url = ./beta/
+	url = git@github.com:ericthecyclist/beta.git
